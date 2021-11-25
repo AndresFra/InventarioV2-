@@ -1,0 +1,15 @@
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\bin\Debug\net5.0\Inventario.Framework.deps.json
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\bin\Debug\net5.0\Inventario.Framework.dll
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\bin\Debug\net5.0\ref\Inventario.Framework.dll
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\bin\Debug\net5.0\Inventario.Framework.pdb
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.csproj.AssemblyReference.cache
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.AssemblyInfoInputs.cache
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.AssemblyInfo.cs
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.csproj.CoreCompileInputs.cache
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.dll
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\ref\Inventario.Framework.dll
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.pdb
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\bin\Debug\net5.0\Inventario.Entities.dll
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\bin\Debug\net5.0\Inventario.Entities.pdb
+C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Framework\obj\Debug\net5.0\Inventario.Framework.csproj.CopyComplete
