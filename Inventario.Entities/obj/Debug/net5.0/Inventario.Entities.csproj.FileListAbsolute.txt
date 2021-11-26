@@ -10,3 +10,15 @@ C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Entities\obj\Debug\ne
 C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Entities\obj\Debug\net5.0\ref\Inventario.Entities.dll
 C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.pdb
 C:\Users\nixon.segura\source\repos\InventarioV2\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\bin\Debug\net5.0\Inventario.Entities.deps.json
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\bin\Debug\net5.0\Inventario.Entities.dll
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\bin\Debug\net5.0\ref\Inventario.Entities.dll
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\bin\Debug\net5.0\Inventario.Entities.pdb
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.AssemblyInfo.cs
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.dll
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\ref\Inventario.Entities.dll
+C:\Users\User\Source\Repos\InventarioV2-\Inventario.Entities\obj\Debug\net5.0\Inventario.Entities.pdb
